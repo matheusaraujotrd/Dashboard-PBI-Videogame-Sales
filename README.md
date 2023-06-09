@@ -16,6 +16,9 @@ gráficos e obter os gêneros mais comprados e os jogos mais comprados de cada f
 histórico geral ou em cada ano de vendas. Também é possível relacionar as vendas dos portáteis. O PDF
 Game Sales Sample mostra um exemplo visual do Dashboard.
 
+O Dashboard "Model 2" inclui um gráfico de barras empilhadas no lugar do gráfico de linhas, onde consta
+a média móvel das vendas anuais.
+
 Matheus Alexandre de Araujo, 08/06/23
 matheusalexandre.engcomp@gmail.com
 
